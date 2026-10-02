@@ -100,5 +100,7 @@ int main() {
         std::cout << o << std::endl;
     }
 
+    std::cout << "Done" << std::endl;
+
     return 0;
 }
